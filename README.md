@@ -42,7 +42,7 @@
 	
 	</head>
 	
-	<body style=background-color:powderblue>
+	<body>
 		<div class="container">
 			<form action="action_page.php">
 
